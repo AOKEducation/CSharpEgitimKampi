@@ -34,4 +34,12 @@ Bu projede foreach döngüsünü kullanarak küçük bir sınav sistemi tasarlad
 
 Kullanıcıdan alınan verileri işleyip çıktı üreten fonksiyonlar yazdım. Daha karmaşık işlemleri modüler yapılarla çözmeyi öğrendim. 🔎
 
+⚙️ Proje 9: Metotlar (Methods)
+
+Bu projede veritabanı bağlantısı kurmayı ve veritabanından veri çekmeyi öğrendim. . 🧩
+
+🔀 Proje 10: Karar Yapıları (If-Else)
+
+Bu projede temel CRUD (Create, Read, Update, Delete) işlemlerini gerçekleştirerek bir veritabanı ile etkileşim sağladım. SQL bağlantısı kullanarak ürün ve kategori bilgilerini ekleme, listeleme, güncelleme ve silme işlemlerini uyguladım.  ✅
+
 👉 Bu projeler sayesinde C# temellerini tekrar ederek aynı zamanda düzenli ve disiplinli çalışmanın sağlayacağı faydaları keşfettim. Sonraki dersleri heyecanla bekliyor olacağım. Şimdiden Teşekkürler. 🚀
